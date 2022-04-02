@@ -1,0 +1,2 @@
+Flag,Area,Population,Iso,Country,Capital,Continent,Tld,Code,Name,Phone,Format,Regex,Languages,Neighbours,time_stamp
+"<img src=""/places/static/images/flags/br.png"" />",8511965 square kilometres,201103330,BR,Brazil,Brasilia,['SA'],.br,BRL,Real,55,#####-###,^(\d{8})$,"pt-BR,es,en,fr","['SR', 'PE', 'BO', 'UY', 'GY', 'PY', 'GF', 'VE', 'CO', 'AR']",2/4/2022 12:32
